@@ -1,0 +1,2 @@
+add_subdirectory(rga_bridge)
+add_subdirectory(jpgfb_mpp)
