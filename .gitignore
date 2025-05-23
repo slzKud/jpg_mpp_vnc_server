@@ -1,0 +1,5 @@
+build/*
+neatvnc*
+*.txt
+*.jpg
+jpgfb_mpp_v1.c
